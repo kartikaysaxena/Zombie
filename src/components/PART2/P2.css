@@ -1,0 +1,69 @@
+.main1 {
+    background: #080424;
+    padding-bottom: 4rem;
+}
+
+.wit {
+    font-weight: 600;
+    font-size: 46px;
+    line-height: 62px;
+    font-style: normal;
+    color: white;
+    letter-spacing: 1px;
+    float: left;
+}
+.wit2 {
+    float: left;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+    opacity: 0.6;
+}
+.nav-linka {
+    text-decoration: none;
+}
+.btna {
+    background: linear-gradient(241.71deg, #32C5FF -23.05%, #A3BF4A 95.65%);
+    color: white;
+    padding: 1rem;
+    border-radius: 6px;
+}
+.random {
+    margin-left: -1rem;
+}
+.stud {
+    padding-right: 10rem;
+}
+.left1 {
+    padding-left: -3rem;
+}
+.img_zom {
+    width: 100%;
+}
+.g1 {
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+}
+.g2 {
+    margin-top: -1rem;
+}
+.kk {
+    display: block;
+}
+#img199 {
+    width: 100%;
+    float: left;
+    padding-bottom: 1rem;
+}
+.d2 {
+    margin-top: -0.4rem ;
+}
+.side {
+    padding-top: 4rem;
+    padding-left: 8rem;
+}
+.ma {
+    margin: auto;
+}

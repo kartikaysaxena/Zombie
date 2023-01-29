@@ -1,0 +1,39 @@
+.main1 {
+    background: #080424;
+    padding-bottom: 4rem;
+}
+.wit {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 65px;
+    color: white;
+    letter-spacing: 1px;
+}
+.wit2345 p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+    opacity: 0.6;
+}
+.center {
+    text-align: center;
+}
+.gap {
+    padding-bottom: 2rem;
+}
+.gap691 {
+    margin: auto;
+}
+.w {
+    width: 100% !important;
+    margin: auto !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+.lo {
+    margin: auto !important;
+    text-align: center !important;
+}

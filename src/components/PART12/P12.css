@@ -1,0 +1,39 @@
+.main1 {
+    background: #080424;
+    padding-bottom: 4rem;
+}
+.wit {
+    float: left;
+    font-weight: 600;
+    font-size: 46px;
+    line-height: 62px;
+    font-style: normal;
+    color: white;
+    letter-spacing: 1px;
+    margin: 0px;
+    width: 100%;
+}
+.wit2 {
+    float: left;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+    opacity: 0.6;
+}
+.padl {
+    padding-top: 2rem;
+    padding-left: 13rem;
+    margin: auto;
+}
+.lefty {
+    text-align: left;
+}
+.k {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 1140px !important;
+    margin: 0 auto !important;
+}

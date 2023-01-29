@@ -1,0 +1,117 @@
+.main11 {
+    padding-top: 5rem;
+    background: #080424;
+    padding-bottom: 4rem;
+}
+.project_section_btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 7rem;
+}
+.project_section_btn a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 164px;
+    height: 56px;
+    background: linear-gradient(241.71deg, #32C5FF -23.05%, #A3BF4A 95.65%);
+    border-radius: 6px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF !important;
+    text-decoration: none;
+}
+.main1 {
+    background: #080424;
+    padding-bottom: 4rem;
+}
+.wit56 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 52px;
+    color: white;
+    letter-spacing: 1px;
+}
+.wit57 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: white;
+    opacity: 0.5;
+}
+.center {
+    text-align: center;
+}
+.gap23 {
+    padding-bottom: 1rem;
+}
+.gap24 {
+    padding-bottom: 2rem;
+}
+
+.wrap {
+    align-items: center;
+    justify-content: center;
+}
+.wrap1 {
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 26rem;
+    padding-right: 26rem;
+}
+.form {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    text-align: center;
+    justify-content: center;
+    max-width: 450px;
+    margin: 0 auto;
+}
+.form-main {
+    max-width: 450px;
+    width: 100%;
+    display: grid;
+    gap: 10px 0px;
+}
+.form-main input {
+    background: transparent;
+    border-radius: 4px 0px 0px 4px;
+    border: 1px solid #616161;
+    display: flex;
+    align-items: center;
+    height: 48px;
+    width: 100%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #fff;
+    padding: 5px 15px;
+}
+.form button {
+
+    align-items: center;
+    justify-content: center;
+    height: 48px;
+    max-width: 120px;
+    width: 100%;
+    background: linear-gradient(242.77deg, #32C5FF -12.54%, #EE4492 113.49%);
+    border-radius: 0px 4px 4px 0px;
+    border: unset;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

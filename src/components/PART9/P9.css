@@ -1,0 +1,83 @@
+.main1 {
+    background: #080424;
+    padding-bottom: 4rem;
+    margin: auto;
+    display: block;
+    width: 100%;
+    padding: 0px 0px;
+    float: left;
+    margin-bottom: 100px;
+    margin: 0px;
+}
+
+.wit {
+    font-weight: 600;
+    font-size: 46px;
+    line-height: 62px;
+    font-style: normal;
+    color: white;
+    letter-spacing: 1px;
+    margin: 0px;
+    width: 100%;
+}
+.wit2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+    opacity: 0.6;
+}
+.nav-linka {
+    text-decoration: none;
+}
+.btna {
+    background: linear-gradient(241.71deg, #32C5FF -23.05%, #A3BF4A 95.65%);
+    color: white;
+    padding: 1rem;
+    border-radius: 6px;
+}
+.random {
+    margin-left: -1rem;
+}
+.stud {
+    padding-right: 10rem;
+}
+.left1 {
+    padding-left: -3rem;
+}
+.img_zom {
+    width: 100%;
+}
+.g1 {
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+}
+.g2 {
+    margin-top: -1rem;
+}
+.kk {
+    display: block;
+}
+#img1 {
+    padding-bottom: 1rem;
+}
+.d2 {
+    margin-top: -0.4rem ;
+}
+.side {
+    padding-top: 4rem;
+    padding-left: 8rem;
+}
+#img10 {
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+}
+.bottomg {
+    padding-bottom: 2rem;
+}
+.gap69 {
+    padding-left:10rem;
+
+}

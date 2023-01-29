@@ -1,0 +1,40 @@
+#we {
+    width: 200px;
+    margin-left: 5rem;
+}
+#mainNav {
+    margin-bottom: 4rem;
+    background-color: #0F0A31;
+    
+}
+.top {
+    padding-top: 1rem ;
+    padding-bottom: 1rem;
+}
+#but {
+    text-decoration: white;
+}
+.struct {
+    margin-top: 1rem;
+    font-family: 'Poppins', sans-serif;
+    padding-right:1rem;
+}
+.white {
+    color: white;
+    text-align: center;
+}
+.nav-linka {
+    text-decoration: none;
+}
+.btna {
+    background: linear-gradient(241.71deg, #32C5FF -23.05%, #A3BF4A 95.65%);
+    color: white;
+    padding: 1rem;
+    border-radius: 6px;
+}
+.gd {
+    color: #54ada9 !important;
+}
+.gdh:hover {
+    color: #54ada9 !important;
+}

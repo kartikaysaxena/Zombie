@@ -1,0 +1,48 @@
+.main1 {
+    background: #080424;
+    padding-bottom: 4rem;
+}
+.wit {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 65px;
+    color: white;
+    letter-spacing: 1px;
+}
+.wit2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+    opacity: 0.6;
+}
+.center {
+    text-align: center;
+}
+.gap {
+    padding-bottom: 2rem;
+}
+.wrap {
+    align-items: center;
+    justify-content: center;
+}
+.wrap19 p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #A2A0B1;
+    margin: 0px;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+.we {
+    padding-left: 7rem;
+    padding-right: 7rem;
+}

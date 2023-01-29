@@ -1,0 +1,53 @@
+.main1 {
+    background: #080424;
+    padding-bottom: 4rem;
+}
+.main2 {
+    padding-top: 2.5rem;
+    padding-left: 1.5rem;
+    margin-left: 6rem;
+}
+.wit {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 65px;
+    color: white;
+    letter-spacing: 1px;
+}
+.wit2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+    opacity: 0.6;
+}
+.nav-linka {
+    text-decoration: none;
+}
+.btna {
+    background: linear-gradient(241.71deg, #32C5FF -23.05%, #A3BF4A 95.65%);
+    color: white;
+    border-radius: 6px;
+    align-items: center;
+    width: 164px;
+    height: 56px;
+}
+.random {
+    margin-left: -1rem;
+}
+.left1 {
+    padding-left: -3rem;
+}
+.img_zom {
+    width: 100%;
+}
+.right {
+    padding-left:10rem;
+}
+.zom22 {
+    float: left;
+    height: auto;
+    width: 100%;
+}
