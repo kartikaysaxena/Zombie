@@ -1,5 +1,6 @@
 import React from "react";
 import img from "./code.png";
+import './P3.css'
 export default function P3() {
   return (
     <div className="main1">
@@ -20,7 +21,7 @@ export default function P3() {
             </div>
           </div>
           <div className="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
-            <img src={img} alt="" id="img200" />
+            <img src={img} alt="" id="img200" className="ma"/>
           </div>
         </div>
       </div>

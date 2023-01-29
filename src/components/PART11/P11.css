@@ -1,33 +1,13 @@
-.back {
-    padding-top: 2rem;
-    background: #080424;
-    padding-bottom: 4rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
-}
-.floaty {
-    float: left;
-    margin: 0px -15px;
-    width: 100%;
-    height: auto;
-    display: flex;
-    align-items: center;
-
-}
-.floaty li {
-    list-style: none;
-    width: 25%;
-    padding: 0px 15px;
-    float: left;
-}
-.floaty li img {
-    width:100%;
-    height:100px;
-    object-fit: contain;
-    vertical-align: middle;
-    margin-bottom: 0px;
-    float: left;
-    text-align: center;
+.h {
     display: flex;
     justify-content: center;
+}
+.h img{
+    max-width: 200px;
+
+    height: 100%;
+    float: left;
+}
+.d {
+    padding-bottom: 4rem;
 }

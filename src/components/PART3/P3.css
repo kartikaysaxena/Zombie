@@ -64,7 +64,6 @@
     padding-right: 4rem;
 }
 #img200 {
-    object-fit: contain;
     width: 100%;
     height: auto;
     float: left;
