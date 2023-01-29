@@ -10,7 +10,7 @@ export default function G() {
   return (
     <div className="">
       <div className="home_section_six_box row d-flex gy-5">
-        <div className="ma kk col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
+        <div className="ma kk col-lg-5 order-2 order-lg-1 d-flex flex-column mt-5 justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
           <div className="home_section_six_single_box_figure">
             <img src={z1} />
           </div>
@@ -41,7 +41,7 @@ export default function G() {
             </div>
           </div>
         </div>
-        <div className="ma col-lg-5 order-1 order-lg-2 text-center text-lg-start">
+        <div className="ma col-lg-5 order-1 order-lg-2 text-center mt-5 text-lg-start">
           <div className="home_section_six_single_box_figure">
             <img src={z2} />
           </div>
@@ -73,7 +73,7 @@ export default function G() {
         </div>
       </div>
       <div className="home_section_six_box row d-flex gy-5">
-        <div className="ma col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
+        <div className="ma col-lg-5 order-2 order-lg-1 d-flex mt-5 flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
           <div className="home_section_six_single_box_figure">
             <img src={z3} />
           </div>
@@ -103,7 +103,7 @@ export default function G() {
             </div>
           </div>
         </div>
-        <div className="ma col-lg-5 order-1 order-lg-2 text-center text-lg-start">
+        <div className="ma col-lg-5 order-1 order-lg-2 mt-5 text-center text-lg-start">
           <div className="home_section_six_single_box_figure">
             <img src={z4} />
           </div>
@@ -133,7 +133,7 @@ export default function G() {
         </div>
       </div>
       <div className="home_section_six_box row d-flex gy-5">
-        <div className="ma col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
+        <div className="ma col-lg-5 order-2 order-lg-1 d-flex mt-5 flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
           <div className="home_section_six_single_box_figure">
             <img src={z5} />
           </div>
@@ -157,7 +157,7 @@ export default function G() {
             </div>
           </div>
         </div>
-        <div className="ma col-lg-5 order-1 order-lg-2 text-center text-lg-start">
+        <div className="ma col-lg-5 order-1 order-lg-2 mt-5 text-center text-lg-start">
           <div className="home_section_six_single_box_figure">
             <img src={z6} />
           </div>

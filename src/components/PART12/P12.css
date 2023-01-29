@@ -14,7 +14,6 @@
     width: 100%;
 }
 .wit2 {
-    float: left;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -24,16 +23,13 @@
 }
 .padl {
     padding-top: 2rem;
-    padding-left: 13rem;
-    margin: auto;
+    display: block;
+    justify-content: center;
+    width: 100%;
 }
-.lefty {
+.lefty p{
     text-align: left;
 }
 .k {
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    max-width: 1140px !important;
-    margin: 0 auto !important;
+    margin-left: 6vw;
 }
